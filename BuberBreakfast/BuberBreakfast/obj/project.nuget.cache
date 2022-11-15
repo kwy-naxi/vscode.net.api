@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jeoQqGA7dhQSpHvaHMYKzeRrrSXIL4IezNwx0PHvOG3X9GgVapFoxal7RU5IoyKLOGZzMRKCrVH9BJF8Bm/HQ==",
+  "success": true,
+  "projectFilePath": "/Users/kwy/Desktop/capi/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/Users/kwy/.nuget/packages/erroror/1.1.0/erroror.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
