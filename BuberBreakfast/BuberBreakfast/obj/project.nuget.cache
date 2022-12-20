@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4jeoQqGA7dhQSpHvaHMYKzeRrrSXIL4IezNwx0PHvOG3X9GgVapFoxal7RU5IoyKLOGZzMRKCrVH9BJF8Bm/HQ==",
+  "dgSpecHash": "cRh5HLJ5FwCCS+pLQEIQWqNTlr0OvQBay4Jpo99ZXaWn95HSy02PEwT2nl3Gpf46xOyve6FnMcNhalWWtltQyQ==",
   "success": true,
-  "projectFilePath": "/Users/kwy/Desktop/capi/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "projectFilePath": "C:\\Users\\kwy\\Desktop\\testgit\\vscode.net.api\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
   "expectedPackageFiles": [
-    "/Users/kwy/.nuget/packages/erroror/1.1.0/erroror.1.1.0.nupkg.sha512"
+    "C:\\Users\\kwy\\.nuget\\packages\\erroror\\1.1.0\\erroror.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }
